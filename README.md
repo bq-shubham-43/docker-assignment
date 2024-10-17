@@ -82,5 +82,3 @@ Steps Taken
     - Added a command in the docker-compose.yml file to automatically restart the Flask app container if it fails: 
       - restart: always
  
-
-
